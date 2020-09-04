@@ -1,3 +1,5 @@
+vgg16 link https://drive.google.com/uc?export=download&id=1M6fmCx-ePeZA-MQrxpvkY5RzgnMAHWb9
+
 this folder is a fork of https://github.com/rolux/stylegan2encoder
 
 ## StyleGAN2 &mdash; Encoder/Projector for Official TensorFlow Implementation
